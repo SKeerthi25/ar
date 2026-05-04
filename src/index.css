@@ -54,7 +54,7 @@ img { max-width: 100%; height: auto; display: block; }
 .glass-card:hover { transform: translateY(-10px); border-color: var(--accent-gold); box-shadow: 0 20px 40px rgba(0,0,0,0.1); }
 
 .section-subtitle { color: var(--accent-gold); font-size: 14px; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 10px; display: block; }
-.section-title { font-size: 36px; margin-bottom: 20px; }
+.section-title { font-size: clamp(28px, 5vw, 36px); margin-bottom: 20px; word-break: break-word; }
 .section-header { margin-bottom: 60px; }
 
 /* Grid systems */
@@ -71,7 +71,7 @@ img { max-width: 100%; height: auto; display: block; }
   background: linear-gradient(rgba(10,10,10,0.8), rgba(10,10,10,0.9)), url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80') center/cover;
   text-align: center; border-bottom: 1px solid var(--glass-border);
 }
-.inner-hero h1 { font-size: 48px; margin-bottom: 15px; color: #ffffff; }
+.inner-hero h1 { font-size: clamp(32px, 6vw, 48px); margin-bottom: 15px; color: #ffffff; word-break: break-word; }
 .breadcrumb { color: var(--text-light); }
 .breadcrumb a { color: var(--accent-gold); }
 

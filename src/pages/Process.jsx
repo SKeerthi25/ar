@@ -9,7 +9,7 @@
             <p className="rich-text text-center" style={{ maxWidth: '800px', margin: '0 auto 60px' }}>To guarantee that multi-million-pound projects are delivered on time and to the exact specification, we rely on a strict, battle-tested project management methodology. Our approach minimizes risk, ensures compliance with building regulations, and delivers perfection down to the millimeter.</p>
             
             <div style={{ display: 'flex', flexDirection: 'column', gap: '40px' }}>
-                <div className="glass-card" style={{ display: 'flex', gap: '30px', alignItems: 'flex-start' }}>
+                <div className="glass-card" style={{ display: 'flex', gap: '30px', alignItems: 'flex-start', flexWrap: 'wrap' }}>
                     <h1 className="gold-text" style={{ fontSize: '100px', opacity: 0.3, margin: 0, lineHeight: 0.8 }}>01</h1>
                     <div style={{ flex: 1 }}>
                         <h3 style={{ fontSize: '24px', marginBottom: '15px', color: 'var(--text-main)' }}>Phase 1: Feasibility, Procurement & Planning</h3>
@@ -22,7 +22,7 @@
                     </div>
                 </div>
                 
-                <div className="glass-card" style={{ display: 'flex', gap: '30px', alignItems: 'flex-start' }}>
+                <div className="glass-card" style={{ display: 'flex', gap: '30px', alignItems: 'flex-start', flexWrap: 'wrap' }}>
                     <h1 className="gold-text" style={{ fontSize: '100px', opacity: 0.3, margin: 0, lineHeight: 0.8 }}>02</h1>
                     <div style={{ flex: 1 }}>
                         <h3 style={{ fontSize: '24px', marginBottom: '15px', color: 'var(--text-main)' }}>Phase 2: Architectural & Engineering Design (BIM)</h3>
@@ -35,7 +35,7 @@
                     </div>
                 </div>
                 
-                <div className="glass-card" style={{ display: 'flex', gap: '30px', alignItems: 'flex-start' }}>
+                <div className="glass-card" style={{ display: 'flex', gap: '30px', alignItems: 'flex-start', flexWrap: 'wrap' }}>
                     <h1 className="gold-text" style={{ fontSize: '100px', opacity: 0.3, margin: 0, lineHeight: 0.8 }}>03</h1>
                     <div style={{ flex: 1 }}>
                         <h3 style={{ fontSize: '24px', marginBottom: '15px', color: 'var(--text-main)' }}>Phase 3: Active Construction & Core Build</h3>
@@ -48,7 +48,7 @@
                     </div>
                 </div>
                 
-                <div className="glass-card" style={{ display: 'flex', gap: '30px', alignItems: 'flex-start' }}>
+                <div className="glass-card" style={{ display: 'flex', gap: '30px', alignItems: 'flex-start', flexWrap: 'wrap' }}>
                     <h1 className="gold-text" style={{ fontSize: '100px', opacity: 0.3, margin: 0, lineHeight: 0.8 }}>04</h1>
                     <div style={{ flex: 1 }}>
                         <h3 style={{ fontSize: '24px', marginBottom: '15px', color: 'var(--text-main)' }}>Phase 4: Fit-Out, Snagging & Handover</h3>
@@ -61,7 +61,7 @@
                     </div>
                 </div>
                 
-                <div className="glass-card" style={{ display: 'flex', gap: '30px', alignItems: 'flex-start' }}>
+                <div className="glass-card" style={{ display: 'flex', gap: '30px', alignItems: 'flex-start', flexWrap: 'wrap' }}>
                     <h1 className="gold-text" style={{ fontSize: '100px', opacity: 0.3, margin: 0, lineHeight: 0.8 }}>05</h1>
                     <div style={{ flex: 1 }}>
                         <h3 style={{ fontSize: '24px', marginBottom: '15px', color: 'var(--text-main)' }}>Phase 5: Post-Handover Care & Maintenance</h3>
