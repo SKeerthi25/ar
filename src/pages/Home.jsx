@@ -12,7 +12,7 @@
                 <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', background: 'linear-gradient(to right, rgba(10,10,10,0.9), rgba(10,10,10,0.4))' }}></div>
               </div>
               <div className="container fade-up" style={{ paddingTop: '80px', maxWidth: '800px', margin: '0 auto', textAlign: 'left' }}>
-                <span className="section-subtitle">ARCHANADEVI LTD</span>
+                <span className="section-subtitle" style={{ fontSize: 'clamp(18px, 4vw, 28px)', letterSpacing: '3px', fontWeight: '700', marginBottom: '15px' }}>ARCHANADEVI LTD</span>
                 <h1 style={{ fontSize: 'clamp(24px, 6vw, 56px)', marginBottom: '20px', lineHeight: 1.2, color: '#ffffff' }}>Building Trust. Creating Homes. <span className="gold-text">Delivering Excellence.</span></h1>
                 <p style={{ fontSize: '16px', color: '#e2e8f0', marginBottom: '40px', maxWidth: '600px' }}>The UK's premier luxury construction company for high-end domestic buildings.</p>
                 <div style={{ display: 'flex', gap: '15px', flexWrap: 'wrap' }}>
