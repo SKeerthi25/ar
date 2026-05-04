@@ -8,7 +8,7 @@ const CaseStudies = () => (
         <h2 className="section-title text-center mb-4 pb-4">In-Depth <span className="gold-text">Project Analysis</span></h2>
         
         <div className="glass-card mb-4" style={{ display: 'flex', gap: '40px', alignItems: 'flex-start', flexWrap: 'wrap' }}>
-            <img src="/images/project1.png" style={{ borderRadius: '8px', flex: '1 1 400px', boxShadow: '0 10px 20px rgba(0,0,0,0.5)' }} alt="Case Study 1" />
+            <img src="/images/port_7.png" style={{ borderRadius: '8px', flex: '1 1 400px', boxShadow: '0 10px 20px rgba(0,0,0,0.5)' }} alt="Case Study 1" />
             <div style={{ flex: '1 1 400px' }}>
                 <span className="section-subtitle">Surrey, £3.2M Budget</span>
                 <h2 className="gold-text mb-3">Project Alpha: The Glass Pavilion</h2>
@@ -25,7 +25,7 @@ const CaseStudies = () => (
         </div>
 
         <div className="glass-card mt-4" style={{ display: 'flex', gap: '40px', alignItems: 'flex-start', flexWrap: 'wrap', flexDirection: 'row-reverse' }}>
-            <img src="/images/project2.png" style={{ borderRadius: '8px', flex: '1 1 400px', boxShadow: '0 10px 20px rgba(0,0,0,0.5)' }} alt="Case Study 2" />
+            <img src="/images/port_8.png" style={{ borderRadius: '8px', flex: '1 1 400px', boxShadow: '0 10px 20px rgba(0,0,0,0.5)' }} alt="Case Study 2" />
             <div style={{ flex: '1 1 400px' }}>
                 <span className="section-subtitle">Kensington, £5.8M Budget</span>
                 <h2 className="gold-text mb-3">Project Beta: The Subterranean Expansion</h2>

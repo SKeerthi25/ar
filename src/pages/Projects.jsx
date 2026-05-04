@@ -12,42 +12,42 @@ const Projects = () => (
       </div>
       <div className="projects-grid">
           <div className="project-item fade-up">
-              <img src="/images/project1.png" alt="Project" />
+              <img src="/images/port_1.png" alt="Project" />
               <div className="project-overlay">
                   <h3>The Kingsway Manor</h3>
                   <p className="gold-text">Hayes, UK</p>
               </div>
           </div>
           <div className="project-item fade-up">
-              <img src="/images/project2.png" alt="Project" />
+              <img src="/images/port_2.png" alt="Project" />
               <div className="project-overlay">
                   <h3>Modern Eco Villas</h3>
                   <p className="gold-text">London, UK</p>
               </div>
           </div>
           <div className="project-item fade-up">
-              <img src="/images/project3.png" alt="Project" />
+              <img src="/images/port_3.png" alt="Project" />
               <div className="project-overlay">
                   <h3>Heritage Renovation</h3>
                   <p className="gold-text">Surrey, UK</p>
               </div>
           </div>
           <div className="project-item fade-up">
-              <img src="/images/project4.png" alt="Project" />
+              <img src="/images/port_4.png" alt="Project" />
               <div className="project-overlay">
                   <h3>The Glasshouse</h3>
                   <p className="gold-text">Berkshire, UK</p>
               </div>
           </div>
           <div className="project-item fade-up">
-              <img src="/images/project2.png" alt="Project" />
+              <img src="/images/port_5.png" alt="Project" />
               <div className="project-overlay">
                   <h3>Kensington Subterranean</h3>
                   <p className="gold-text">London, UK</p>
               </div>
           </div>
           <div className="project-item fade-up">
-              <img src="/images/project3.png" alt="Project" />
+              <img src="/images/port_6.png" alt="Project" />
               <div className="project-overlay">
                   <h3>Country Estate</h3>
                   <p className="gold-text">Oxfordshire, UK</p>
