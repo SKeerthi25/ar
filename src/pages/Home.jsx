@@ -8,7 +8,7 @@
           <>
             <section className="hero" style={{ position: 'relative', minHeight: '100vh', display: 'flex', alignItems: 'center' }}>
               <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', zIndex: -1 }}>
-                <img src="/images/project1.png" style={{ width: '100%', height: '100%', objectFit: 'cover' }} alt="Hero" />
+                <img src="/images/hero_ai.png" style={{ width: '100%', height: '100%', objectFit: 'cover' }} alt="Hero" />
                 <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', background: 'linear-gradient(to right, rgba(10,10,10,0.9), rgba(10,10,10,0.4))' }}></div>
               </div>
               <div className="container fade-up" style={{ paddingTop: '80px', maxWidth: '800px', margin: '0 auto', textAlign: 'left' }}>
@@ -36,7 +36,7 @@
                   <Link to="/about" className="btn btn-primary">Discover Our Legacy</Link>
                 </div>
                 <div className="fade-up" style={{ position: 'relative' }}>
-                  <img src="/images/project1.png" alt="Construction site" style={{ borderRadius: '12px' }}/>
+                  <img src="/images/process1.png" alt="Construction site" style={{ borderRadius: '12px' }}/>
                 </div>
               </div>
             </section>

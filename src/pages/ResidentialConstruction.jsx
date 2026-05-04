@@ -8,7 +8,7 @@
           <section className="section-padding container">
             <div className="grid-2">
               <div className="fade-up">
-                <img src="/images/project1.png" style={{ borderRadius: '12px' }} alt="Residential" />
+                <img src="/images/project4.png" style={{ borderRadius: '12px' }} alt="Residential" />
               </div>
               <div className="fade-up">
                 <h2 className="section-title">Masterful <span className="gold-text">New Builds</span></h2>

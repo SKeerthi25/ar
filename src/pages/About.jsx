@@ -12,7 +12,7 @@
                 <p style={{ color: 'var(--text-light)' }}>Our mission is to construct spaces that elevate lifestyles. By combining traditional building expertise with cutting-edge architectural practices, we ensure every project is structurally sound and aesthetically breathtaking.</p>
               </div>
               <div className="fade-up">
-                <img src="/images/project1.png" style={{ borderRadius: '12px' }} alt="About" />
+                <img src="/images/process2.png" style={{ borderRadius: '12px' }} alt="About" />
               </div>
             </div>
           </section>
