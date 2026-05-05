@@ -36,16 +36,16 @@
           <section className="section-padding bg-secondary">
             <div className="container grid-3 text-center">
               <div className="glass-card fade-up">
-                <h3 className="gold-text" style={{ fontSize: '48px', marginBottom: '10px' }}>25+</h3>
-                <h4>Years Experience</h4>
+                <h3 className="gold-text" style={{ fontSize: '32px', marginBottom: '10px', fontWeight: 'bold' }}>Bespoke</h3>
+                <h4>Tailored Designs</h4>
               </div>
               <div className="glass-card fade-up" style={{ animationDelay: '0.1s' }}>
-                <h3 className="gold-text" style={{ fontSize: '48px', marginBottom: '10px' }}>150+</h3>
-                <h4>Projects Delivered</h4>
+                <h3 className="gold-text" style={{ fontSize: '32px', marginBottom: '10px', fontWeight: 'bold' }}>Mastery</h3>
+                <h4>Expert Craftsmanship</h4>
               </div>
               <div className="glass-card fade-up" style={{ animationDelay: '0.2s' }}>
-                <h3 className="gold-text" style={{ fontSize: '48px', marginBottom: '10px' }}>100%</h3>
-                <h4>Client Satisfaction</h4>
+                <h3 className="gold-text" style={{ fontSize: '32px', marginBottom: '10px', fontWeight: 'bold' }}>Quality</h3>
+                <h4>Uncompromising Standards</h4>
               </div>
             </div>
           </section>
